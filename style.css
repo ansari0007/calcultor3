@@ -1,0 +1,35 @@
+
+table{
+	width:400px;
+	background:#aaa;
+	border-radius:20px;
+	
+}
+table,tr,td{
+	
+	text-align:center;
+}
+input[type="button"]{
+	height:50px;
+	width:60px;
+	border-radius:15px;
+	background:black;
+	color:white;
+	font-size:2em;
+}
+input[type="button"]:hover{
+	background:green;
+	color:blue;
+}
+#disp{
+	width:380px;
+	height:40px;
+	border-radius:20px;
+	margin-bottom:10px;
+}
+#b0{
+	width:120px;
+}
+#add,#equal{
+	height:100px;
+}
